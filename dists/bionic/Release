@@ -1,0 +1,19 @@
+Origin: pkg.mint.lgbt
+Label: mint.lgbt Apps
+Codename: bionic
+Date: Sat, 17 Oct 2020 18:14:26 UTC
+Architectures: amd64
+Components: main
+Description: Applications for mint.lgbt
+MD5Sum:
+ 0f681195e414dc2cb0b6c32c85e3f8ab 751 main/binary-amd64/Packages
+ f38d4ad6850940ecc113a3b626361c32 473 main/binary-amd64/Packages.gz
+ 15e442a6fa522e8fd936138f2f158df1 120 main/binary-amd64/Release
+SHA1:
+ 9c07d9e786a2d5d2ab6dc584ee1fba3440590aa7 751 main/binary-amd64/Packages
+ 12f25ed87f162c1545c7ea65d0e9a93ff444646a 473 main/binary-amd64/Packages.gz
+ 28544b5aeebbf5122044e65b3288e130f7149a4f 120 main/binary-amd64/Release
+SHA256:
+ 1ae60f2a28fc56f2a0fccf03187cf9209ad95960bfd81c465c2799730eca9249 751 main/binary-amd64/Packages
+ 5ed7051b7bc366dc36a4aefd1c4d3e1adf6e9d2326e5a95f7724c6ff164306a9 473 main/binary-amd64/Packages.gz
+ 8f21e325bfd43b6921c63194138d99e29bbc964fe3bcca7906f094bbed151efd 120 main/binary-amd64/Release

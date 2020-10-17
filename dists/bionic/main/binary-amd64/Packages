@@ -1,0 +1,20 @@
+Package: element-desktop
+License: Apache-2.0
+Vendor: support@element.io
+Architecture: amd64
+Maintainer: support@element.io
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0, libsqlcipher0
+Replaces: riot-desktop (<< 1.7.0), riot-web (<< 1.7.0)
+Breaks: riot-desktop (<< 1.7.0), riot-web (<< 1.7.0)
+Homepage: https://element.io/
+Priority: extra
+Section: net
+Filename: pool/main/e/element-desktop/element-desktop_1.7.9_amd64.deb
+Size: 67635220
+SHA256: c620503f489931e2f489826580cafb6678dd70363b5937e04c1b779ab7e0cc8b
+SHA1: fd12daddf7f6b217851068ec3371ea37c77dd60f
+MD5sum: 1918373f3e7d42be8f324b1dd79d3e37
+Description: 
+  A feature-rich client for Matrix.org
+Version: 1.7.9
+
